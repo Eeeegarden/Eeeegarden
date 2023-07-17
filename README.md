@@ -1,4 +1,4 @@
-### Hi there 👋
+# LEE JEONG WON 😉
 
 <!--
 **Eeeegarden/Eeeegarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eeeegarden&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddnjs3333)](https://solved.ac/wjddnjs3333/)
